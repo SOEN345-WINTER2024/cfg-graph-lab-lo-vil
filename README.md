@@ -1,3 +1,9 @@
+# Lab Answers:
+
+[Lab 7 (345).pdf](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-lo-vil/files/14541765/Lab.7.345.pdf)
+
+<img width="471" alt="Screenshot 2024-03-08 at 1 12 18 PM" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-lo-vil/assets/94203138/cc05884e-3207-4028-9c8f-5ea88fcdb923">
+
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
